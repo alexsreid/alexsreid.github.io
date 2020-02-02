@@ -1,11 +1,11 @@
-name: Herring Cove
-author: Herring Cove
+name: Alex Reid
+author: Alex Reid
 baseurl: /herring-cove
 description: theme for jekyll
 github: http://www.github.com/arnp
-twitter: http://www.twitter.com/
-facebook: http://www.facebook.com
-linkedin: http://www.linkedin.com
+##twitter: http://www.twitter.com/
+##facebook: http://www.facebook.com
+linkedin: https://www.linkedin.com/in/alex-reid-5263a3168/
 email: rnpatel[at]me.com
 location: 42°2'16"N   70°12'47"W
 disqus: diqus-username
